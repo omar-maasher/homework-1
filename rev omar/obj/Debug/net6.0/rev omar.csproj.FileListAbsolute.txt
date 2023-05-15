@@ -1,0 +1,26 @@
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\appsettings.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.staticwebassets.runtime.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.exe
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.deps.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.runtimeconfig.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.dll
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\rev omar.pdb
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.csproj.AssemblyReference.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.AssemblyInfoInputs.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.AssemblyInfo.cs
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.RazorAssemblyInfo.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.RazorAssemblyInfo.cs
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\scopedcss\bundle\rev omar.styles.css
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\scopedcss\projectbundle\rev omar.bundle.scp.css
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.dll
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\ref\rev omar.dll
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.pdb
+C:\Users\OMAR\source\repos\rev omar\rev omar\obj\Debug\net6.0\rev omar.genruntimeconfig.cache
+C:\Users\OMAR\source\repos\rev omar\rev omar\bin\Debug\net6.0\ref\rev omar.dll

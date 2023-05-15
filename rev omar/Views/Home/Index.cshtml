@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    
+    @if (ViewBag.bag != null)
+{
+    @if (ViewBag.bag == "123")
+    {
+        <p class="red"> ادخل نص</p>
+    }
+    else
+    {
+    <h2 class ="rtxt">@ViewBag.bag</h2>
+
+    }
+}
+    <form  asp-action="Reverse">
+        <h2>اكتب النص هنا </h2>
+
+        <input type="text" name="n1" class = "txt" />
+
+    <input type="submit"  value="اعكس" class = "bt" />
+    </form>
+
+</div>
